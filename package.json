@@ -1,0 +1,22 @@
+{
+  "name": "a5",
+  "version": "1.0.0",
+  "description": "Holiday Project",
+  "main": "js/a5.js",
+  "dependencies": {
+    "howler": "^2.1.2",
+    "three": "^0.110.0",
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.103.2",
+    "@types/howler": "^2.1.2",
+    "http-server": "0.11.1",
+    "typescript": "^3.6"
+  },
+  "scripts": {
+    "http": "http-server -c-1 --cors"
+  },
+  "author": "Ryan Miles",
+  "license": "MIT"
+}
